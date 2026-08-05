@@ -58,7 +58,7 @@ None.
 
 ### Check-in 2 (end of week)
 
-**PR link:** _pending — will add once opened_
+**PR link:** https://github.com/ascherj/pathreview/pull/942
 
 **Branch:** test/109-review-service-test-coverage
 
